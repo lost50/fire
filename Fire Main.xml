@@ -1,64 +1,14 @@
-<dir>
-<title>I.C.U New Movies</title>
-<tmdb>list/https://www.themoviedb.org/list/50674</tmdb>
+ <dir>
+  <title>Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/fire/master/lost%20movies.xml</link>
 </dir>
 
-<xml>
-  <dir>
-    <title>movies</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20movies.xml</link>
-  </dir>
-  
-</xml>
-  <dir>
-    <title>TV</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20tv.xml</link>
-  </dir>
-</xml>
-
-<dir>
-<title>Urban TV</title>
-<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
+ 
+ <dir>
+  <title>TV</title>
+  <link>https://raw.githubusercontent.com/lost50/fire/master/lost%20tv.xml</link>
 </dir>
 
-<xml>
-  <dir>
-    <title>Hit List</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20hit%20list.xml</link>
-  </dir>
-
-<dir>
-<title>Stage Plays</title>
-<tmdb>list/https://www.themoviedb.org/list/50618</tmdb>
-</dir>
-
-<dir>
-<title>B Movies</title>
-<tmdb>list/https://www.themoviedb.org/list/50619</tmdb>
-</dir>
-
-<xml>
-  <dir>
-    <title>B Genres</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20genra.xml</link>
- </dir>
-
-<xml>
-  <dir>
-    <title>Comedy</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20comedy.xml</link>
-  </dir>
-
-<dir>
-<title>Hood Movies</title>
-<tmdb>list/https://www.themoviedb.org/list/50624</tmdb>
-</dir>
-
-<xml>
-  <dir>
-    <title>Actors</title>
-    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/Urban%20actors.xml</link>
-  </dir>
 
 <xml>
   <dir>
@@ -81,6 +31,6 @@
 
 <plugin>
 <name>Settings</name>
-<link>plugin://plugin.video.eye/?action=openSettings</link>
+<link>plugin://plugin.video.fire?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
