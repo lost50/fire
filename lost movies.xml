@@ -1,4 +1,14 @@
 <dir>
+<title>EOD new</title>
+<tmdb>list/50592</tmdb>
+</dir>
+
+<dir>
+  <title>EOD New 2</title>
+  <tmdb>list/51213</tmdb>
+</dir>
+
+<dir>
       <title>TMDB Upcoming</title>
       <tmdb>movie/upcoming</tmdb>
       <summary>Shows Trailers For Upcoming Movies</summary>
@@ -10,7 +20,7 @@
 </dir>
  
 <dir>
-<title>IMDB dc/mrval</title>
+<title>IMDB DC/Marval</title>
 <imdburl>list/http://www.imdb.com/list/ls021993452/</imdburl>
 </dir>
 
